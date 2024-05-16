@@ -21,16 +21,16 @@ soon...
 
 ## Repository Structure
 The repository is organized as follows:
-1. frontend/: Contains files for the front-end development including HTML, CSS, and JavaScript.
-2. backend/: Houses files for the back-end development using Django framework.
+1. front-end/: Contains files for the front-end development including HTML, CSS, and JavaScript.
+2. back-end/: Houses files for the back-end development using Django framework.
 
 
 ## Getting Started
 1. Clone the repository to your local machine
    git clone (https://github.com/MTalhaZafar32/web-system.git)
 2. Navigate to the cloned directory:
-   cd web-system
-3. Explore the `frontend/` and `backend/` directories to find HTML, CSS, JavaScript files for front-end development and Django files for back-end development respectively.
+   `cd web-system`
+3. Explore the `Front-end/` and `Back-end/` directories to find HTML, CSS, JavaScript files for front-end development and Django files for back-end development respectively.
 4. Start building and learning! Feel free to modify or extend the existing codebase according to your requirements.
 
 
